@@ -46,12 +46,6 @@ You'll be rendering some receipts. This data should be copied/pasted into a file
   //...
 }`
 
-### **Receipt Data**
-
-Here is a copy of the data needed to render some initial receipts.
-
-- **Receipt Data**
-
 ### **Receipts**
 
 The receipts should display the following information:
